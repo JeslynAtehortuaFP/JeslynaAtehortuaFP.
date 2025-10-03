@@ -1,0 +1,14 @@
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.AssemblyInfoInputs.cache
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.AssemblyInfo.cs
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.csproj.CoreCompileInputs.cache
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\bin\Debug\net8.0\ParcialCiclos.exe
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\bin\Debug\net8.0\ParcialCiclos.deps.json
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\bin\Debug\net8.0\ParcialCiclos.runtimeconfig.json
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\bin\Debug\net8.0\ParcialCiclos.dll
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\bin\Debug\net8.0\ParcialCiclos.pdb
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.dll
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\refint\ParcialCiclos.dll
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.pdb
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ParcialCiclos.genruntimeconfig.cache
+C:\Users\jesly\source\repos\JeslynAtehortuaFP\ParcialCiclos\ParcialCiclos\obj\Debug\net8.0\ref\ParcialCiclos.dll
